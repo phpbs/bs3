@@ -1,0 +1,22 @@
+{
+    "name": "phpbs/bs3",
+    "type": "library",
+    "description": "PHP Bootstrap 3 Helper",
+    "keywords": ["bootstrap","helper"],
+    "homepage": "https://github.com/phpbs/bs3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Natan Felles",
+            "email": "natanfelles@gmailcom",
+            "homepage": "https://natanfelles.github.io",
+            "role": "Founder"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": ["src/bs3_helper.php"]
+    }
+}
